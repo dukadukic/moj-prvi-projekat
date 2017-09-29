@@ -1,13 +1,46 @@
 
 body {
-  background: orange;
+      background: orange;
+      margin: 5em 20em;
 }
 h1 {
-  color: blue;
+      color: blue; text-align: center; font-size: 300%;
 }
 h2 {
-  font-family: 'Anton', sans-serif;
+      font-family: 'Anton', sans-serif;
+      float: right;
+      margin: 0 0 .7em 1.2em;
+      width: 300px;
+      background: blue;
+      border-collapse: collapse;
+      border: 2px solid #999;
+      font-size: 170%;
+      line-height: 1.5;
+}
+p {
+      float: center;
+      margin: 0 0 .5em 1em;
+      width: 300px;
+      background: grey;
+      border-collapse: collapse;
+      border: 1px solid #999;
+      font-size: 170%;
+      line-height: 1.5;
+      text-align: center;
 }
 img {
-width: 50px;
+      float: right;
+      margin: 0 0 .5em 1em;
+      width: 300px;
+}
+h3 {
+      text-align: center;
+      margin: 0 0 .5em 1em;
+      width: 300px;
+      background: blue;
+      border-collapse: collapse;
+      border: 1px solid #999;
+      font-size: 170%;
+      line-height: 1.5;
+
 }
